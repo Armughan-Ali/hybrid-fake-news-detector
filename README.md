@@ -23,7 +23,7 @@ A hybrid NLP and machine learning pipeline to classify news articles as **Fake**
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/fake-news-classifier.git
+git clone https://github.com/Armughan-Ali/hybrid-fake-news-detector
 cd fake-news-classifier
 
 conda create --name fake-news python=3.10
